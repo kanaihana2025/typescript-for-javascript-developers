@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/kanaihana2025/typescript-for-javascript-developers/issues"
   },
-  "homepage": "https://github.com/kanaihana2025/typescript-for-javascript-developers#readme"
+  "homepage": "https://github.com/kanaihana2025/typescript-for-javascript-developers#readme",
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  }
 }
